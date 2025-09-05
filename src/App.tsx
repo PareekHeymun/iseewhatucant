@@ -13,7 +13,7 @@ import {
   MapPin, Plus, TrendingUp, Clock, CheckCircle, AlertTriangle,
   Users, Phone, Settings, LogOut, Bell
 } from 'lucide-react';
-import { toast } from 'sonner@2.0.3';
+import { toast } from 'sonner';
 import { Toaster } from './components/ui/sonner';
 
 interface User {
